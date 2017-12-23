@@ -1,0 +1,23 @@
+.heading{
+    font-family: monospace;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    font-size: 38px;
+}
+
+.prof{
+    font-family: monospace;
+    font-style: oblique;
+    text-transform: capitalize;
+    margin-top: 0px;
+    font-size: 14px;
+    color: grey;
+}
+
+.text{
+    width: 550px;
+    font-family: monospace;
+    font-size: 14px;
+    color: grey;
+    text-align: justify;
+}
