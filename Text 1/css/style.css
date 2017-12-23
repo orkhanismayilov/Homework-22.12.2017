@@ -1,0 +1,25 @@
+h1{
+    font-family: monospace;
+    margin-top: 5px;
+    padding-bottom: 8px;
+    font-weight: 100;
+    border-bottom: 4px solid orange;
+    width: 350px;
+    font-size: 27px;
+}
+
+p{
+    color: grey;
+    font-family: monospace;
+    width: 350px;
+    text-align: justify;
+    font-size: 14px;
+}
+
+.head{
+    margin-bottom: 5px;
+}
+
+.orange{
+    color: orange;
+}
