@@ -1,0 +1,20 @@
+h1, p{
+    font-family: monospace;
+}
+
+.download{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+h1{
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 27px;
+}
+
+p{
+    width: 420px;
+}
